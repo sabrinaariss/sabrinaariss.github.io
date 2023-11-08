@@ -156,11 +156,11 @@ header {
     @include background-cover;
     background-position: center;
     background-image: url('../img/header.png');
-    text-align: right;
+    text-align: center;
     color: white;
     .header-content {
         position: relative;
-        text-align: right;
+        text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
         .header-content-inner {
@@ -211,11 +211,11 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
-    text-align: right;
+    text-align: center;
     color: white;
     .page-header-content {
         position: relative;
-        text-align: right;
+        text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
        .page-header-content-inner {
